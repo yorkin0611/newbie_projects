@@ -3,4 +3,5 @@ This repository is a collection of little projects of personal nature or exercis
 
 Index of Content (wip):
 1. Pandas exercises (Original author: Prof. Ryan Ahmed, Coursera Project Network (CPN))
-2. COVID analysis and visualisation - Pandas, Seaborn, Plotly exercises (Original author: Ahmed Varasteh, CPN)
+2. Pandas visualisation exercises (Original author: Ahmed Varasteh, CPN)
+3. COVID analysis and visualisation - Pandas, Seaborn, Plotly exercises (Original author: Ahmed Varasteh, CPN)
