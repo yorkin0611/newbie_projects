@@ -6,3 +6,4 @@ Index of Content:
 2. Pandas Visualisation (Original author: Ahmad Varasteh, CPN)
 3. COVID analysis and visualisation - Pandas, Seaborn, Plotly exercises (Original author: Ahmad Varasteh, CPN)
 4. Plotly - Choropleth, plotly.express, Gapminder datasets (Original author: Snehan Kekre, CPN)
+5. EDA vs CDA - Plotly Choropleth, Sunburst, Treemap (Original author: Ahmad Varasteh, CPN)
