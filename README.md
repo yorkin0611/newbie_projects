@@ -10,3 +10,5 @@ Index of Content:
 6. Merge/Sort/Filter in Pandas (Original author: Dave Dalsveen, CPN)
 7. MLR with scikit-learn (Original author: Snehan Kekre, CPN)
 8. SLR with scikit-learn (Original author: Snehan Kekre, CPN)
+9. EDA with Seaborn (Original author: Snehan Kekre, CPN)
+10. Logistic Regression with Numpy (Original author: Snehan Kekre, CPN)
